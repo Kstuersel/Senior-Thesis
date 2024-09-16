@@ -440,7 +440,7 @@ GameObject:
   - component: {fileID: 1518865104}
   - component: {fileID: 1518865103}
   m_Layer: 0
-  m_Name: Test Mesh
+  m_Name: Test Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

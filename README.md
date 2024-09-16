@@ -53,9 +53,9 @@ An example loop of said gameplay:
 5. If player gets cornered they have the option to blind the enemy for a short moment with their flashlight, however the resource is limited and should be used sparingly.
 
 ### Visual Design
+Note: References for this project can be found in the Reference images folder of this project.
+
 The game will be set in a deep ocean arean, meaning the player shall be shrouded in darkness except for the 
 lights of the submarine, the flashlight of the player, and the bioluminescence of any creatures in the ocean.
 
 The submarine will be placed atop a crevas in the ocean bridging the two sides of it. The moonpool (A pressurized environment that allows a person to dive into the water from an interior environment) will be placed along this crevas and will be the only means in and out of the submarine.
-
-Note: References for this project can be found in the Reference images folder of this project.
