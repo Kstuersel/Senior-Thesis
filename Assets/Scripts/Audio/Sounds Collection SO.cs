@@ -2,17 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SoundsCollectionSO : MonoBehaviour
+[CreateAssetMenu]
+public class SoundsCollectionSO : ScriptableObject
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [Header("Music")] 
+    public SoundSO[] AmbientMusic;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    [Header("SFX")] 
+    public SoundSO[] ItemPickup;
+    public SoundSO[] MonsterNoise;
 }
